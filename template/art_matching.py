@@ -4,7 +4,7 @@ class ArtMatching:
     def __init__(self):
         pass
 
-    def insert_image(self, image) -> bool:
+    def insert_images(self, images) -> bool:
         # 1. get necessary fields
         # 2. insert into the database
         return True
